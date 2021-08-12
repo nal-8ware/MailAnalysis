@@ -1,8 +1,15 @@
 <?php
 /**
  * ポートフォリオ用に作成中のメール解析クラス
- * 以前業務で製作したうろ覚えの物を作り直し
+ * 以前業務で製作したうろ覚えの物を作り直し中
  * 
+ * 動作テスト用URL
+ *   https://8ware.site/mailanalysis/index.php
+ * できあがっている部分
+ * 　ヘッダ部分解析の一部
+ * 今後の予定
+ * 　テキスト本文、HTML、添付ファイルの抽出
+ *
  * @version 0.1
  * @author Kazuki Tsuchiya
  * @link https://portfolio.forkwell.com/@8warebase
